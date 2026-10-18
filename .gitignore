@@ -1,0 +1,9 @@
+# your job's raw material and results stay local
+inputs/
+out/
+work/
+__pycache__/
+*.pyc
+.env
+.env.*
+.claude/worktrees/
