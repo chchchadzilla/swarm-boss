@@ -1,3 +1,5 @@
+![How to Boss Around a Swarm of AI Agents -- Chad Keith](assets/banner.png)
+
 # How to Boss Around a Swarm of AI Agents
 
 **The idiot-proof, step-by-step guide to letting the expensive model think and the cheap models type.**
